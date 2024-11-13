@@ -1,8 +1,6 @@
-# health_app
+# Doctor App
 
-A new Flutter application.
-
-## Getting Started
+## Flutter Application
 
 This project is a starting point for a Flutter application.
 
